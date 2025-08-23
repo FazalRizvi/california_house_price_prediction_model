@@ -11,7 +11,7 @@ col = ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']
 
 st.title('California Housing Price Prediction')
 
-st.image('https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2021/03/chaitali-majumder/house-price-497112-KhCJQICS.jpg')
+st.image('https://www.shutterstock.com/image-photo/real-estate-on-top-wooden-260nw-538341163.jpg')
 
 
 
@@ -23,7 +23,7 @@ st.header('Model of housing prices to predict median house values in California 
 
 st.sidebar.title('Select House Features 🏠')
 
-st.sidebar.image('https://png.pngtree.com/thumb_back/fh260/background/20230804/pngtree-an-upside-graph-showing-prices-and-houses-in-the-market-image_13000262.jpg')
+st.sidebar.image('https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/04/housing_crash.jpg')
 
 
 
