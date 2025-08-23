@@ -85,3 +85,5 @@ if price>0:
 else:
     body='Invalid House Feaature Values'
     st.warning(body)
+
+st.markdown('Designed by:**Fazal Rizvi**')
